@@ -1,5 +1,6 @@
 angular-esri-map
 ================
+16/06/17 - updated from upstream master
 
 [![Build Status](https://travis-ci.org/Esri/angular-esri-map.svg?branch=master)](https://travis-ci.org/Esri/angular-esri-map)
 
